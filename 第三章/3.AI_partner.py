@@ -41,7 +41,7 @@ st.logo("recoures/1.jpg")
 
 #环境配置
 client = OpenAI(
-    api_key="sk-457c9b22edd546c28279e6b132be3871",
+    api_key="",
     base_url="https://api.deepseek.com")
 
 # 系统提示词
